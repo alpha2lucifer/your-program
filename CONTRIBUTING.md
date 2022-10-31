@@ -1,6 +1,6 @@
 | no  | image                                                                                  | name               | github link                                                                    |
 | --- | -------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------ |
-| 1   | <img src="https://avatars.githubusercontent.com/u/55008381?v=4" height=150 width=150>  | akasakaid          | [https://github.com/akasakaid](https://github.com/akasakaid)                   |
+| 1   |<img src="https://avatars.githubusercontent.com/u/55008381?v=4" height=150 width=150>  | akasakaid          | [https://github.com/akasakaid](https://github.com/akasakaid)                   |
 | 2   | <img src="https://avatars.githubusercontent.com/u/70132549?v=4" height=150 width=150>  | sayaPintar         | [https://github.com/sayaPintar](https://github.com/sayaPintar)                 |
 | 3   | <img src="https://avatars.githubusercontent.com/u/56754416?v=4" height=150 width=150>  | dyangga            | [https://github.com/dyangga](https://github.com/dyangga)                       |
 | 4   | <img src="https://avatars.githubusercontent.com/u/96789493?v=4" height=150 width=150>  | grraghav120        | [https://github.com/grraghav120](https://github.com/grraghav120)               |
